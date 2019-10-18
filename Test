@@ -99,87 +99,87 @@ TEAM,AAC,East,Army,ARMY,25,NAVY,,,
 ,,,,,,,,,
 # Coaches,,,,,,,,,
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme
-COACH,ALA,Nick Saban,20,30,30,30,30,Balanced,Balanced
-COACH,ARIZ,Kevin Sumlin,20,30,30,30,30,Pro Style,Conservative
-COACH,ASU,Herm Edwards,20,30,30,30,30,Spread,Conservative
-COACH,ARK,Chad Morris,20,30,30,30,30,Pro Style,Conservative
-COACH,ARMY,Jeff Monken,20,30,30,30,30,Smashmouth,4-6 Bear
-COACH,AUB,Gus Malzahn,20,30,30,30,30,Pro Style,Aggressive
-COACH,BAY,Matt Rhule,20,30,30,30,30,Pro Style,Conservative
-COACH,BSU,Bryan Harsin,20,30,30,30,30,Pro Style,Conservative
-COACH,BC,Steve Addazio,20,30,30,30,30,Pro Style,Aggressive
-COACH,BYU,Kalani Sitake,20,30,30,30,30,Pro Style,Conservative
-COACH,CAL,Justin Wilcox,20,30,30,30,30,Pro Style,Conservative
-COACH,UCF,Josh Heupel,20,30,30,30,30,Spread,Conservative
-COACH,CIN,Luke Fickell,20,30,30,30,30,Pro Style,Conservative
-COACH,CLEM,Dabo Swinney,20,30,30,30,30,Pro Style,Cover 2
-COACH,COLO,Mike MacIntyre,20,30,30,30,30,Pro Style,Conservative
-COACH,CSU,Mike Bobo,20,30,30,30,30,Pro Style,Conservative
-COACH,DUKE,David Cutcliffe,20,30,30,30,30,Pro Style,Conservative
-COACH,ECU,Scottie Montgomery,20,30,30,30,30,Smashmouth,Conservative
-COACH,UF,Dan Mullen,20,30,30,30,30,Pro Style,Balanced
-COACH,FSU,David Knight,20,95,95,95,95,Spread,Balanced
-COACH,UGA,Kirby Smart,20,30,30,30,30,Balanced,Aggressive
-COACH,GT,Paul Johnson,20,30,30,30,30,Smashmouth,Conservative
-COACH,HOU,Major Applewhite,20,30,30,30,30,Spread,Conservative
-COACH,ILL,Lovie Smith,20,30,30,30,30,Pro Style,Conservative
-COACH,IND,Tom Allen,20,30,30,30,30,Spread,Conservative
-COACH,IOWA,Kirk Ferentz,20,30,30,30,30,Balanced,Conservative
-COACH,ISU,Matt Campbell,20,30,30,30,30,Pro Style,Conservative
-COACH,KU,Les Miles,20,30,30,30,30,Pro Style,Conservative
-COACH,KSU,Chris Klieman,20,30,30,30,30,Pro Style,Conservative
-COACH,UK,Mark Stoops,20,30,30,30,30,Smashmouth,Conservative
-COACH,LOU,Bobby Petrino,20,30,30,30,30,Spread,Conservative
-COACH,LSU,Ed Orgeron,20,30,30,30,30,Pro Style,Conservative
-COACH,MD,Mike Locksley,20,30,30,30,30,Balanced,Conservative
-COACH,MEM,Mike Norvell,20,30,30,30,30,Spread,Conservative
-COACH,UM,Manny Diaz,20,30,30,30,30,Balanced,Cover 2
-COACH,MICH,Jim Harbaugh,20,30,30,30,30,Pro Style,Aggressive
-COACH,MSU,Mark Dantonio,20,30,30,30,30,Balanced,Cover 2
-COACH,MINN,PJ Fleck,20,30,30,30,30,Pro Style,Conservative
-COACH,MSST,Joe Moorhead,20,30,30,30,30,Pro Style,Conservative
-COACH,MIZ,Barry Odom,20,30,30,30,30,Spread,Conservative
-COACH,NAVY,Ken Niumatalolo,20,30,30,30,30,Smashmouth,Conservative
-COACH,NEB,Scott Frost,20,30,30,30,30,Pro Style,Conservative
-COACH,UNC,Larry Fedora,20,30,30,30,30,Pro Style,Conservative
-COACH,NCST,Dave Doeren,20,30,30,30,30,Pro Style,Conservative
-COACH,NW,Pat Fitzgerald,20,30,30,30,30,Pro Style,Conservative
-COACH,ND,Brian Kelly,20,30,30,30,30,Balanced,Conservative
-COACH,OSU,Ryan Day,20,30,30,30,30,Spread,Balanced
-COACH,OKL,Lincoln Riley,20,30,30,30,30,Spread,Conservative
-COACH,OKST,Mike Gundy,20,30,30,30,30,Pro Style,Conservative
-COACH,MISS,Matt Luke,20,30,30,30,30,Spread,Conservative
-COACH,ORE,Mario Cristobal,20,30,30,30,30,Pro Style,Conservative
-COACH,ORST,Jonathan Smith,20,30,30,30,30,Pro Style,Conservative
-COACH,PITT,Pat Narduzzi,20,30,30,30,30,Pro Style,Conservative
-COACH,PSU,James Franklin,20,30,30,30,30,Spread,Aggressive
-COACH,PUR,Jeff Brohm,20,30,30,30,30,Pro Style,Conservative
-COACH,RUT,Chris Ash,20,30,30,30,30,Pro Style,Conservative
-COACH,SCAR,Will Muschamp,20,30,30,30,30,Pro Style,Conservative
-COACH,USF,Charlie Strong,20,30,30,30,30,Spread,Conservative
-COACH,STAN,David Shaw,20,30,30,30,30,Balanced,Conservative
-COACH,SYR,Dino Babers,20,30,30,30,30,Pro Style,Conservative
-COACH,TCU,Gary Patterson,20,30,30,30,30,Spread,Aggressive
-COACH,TEM,Geoff Collins,20,30,30,30,30,Pro Style,Conservative
-COACH,TEN,Jeremy Pruitt,20,30,30,30,30,Pro Style,Conservative
-COACH,TEX,Tom Herman,20,30,30,30,30,Pro Style,Conservative
-COACH,TAMU,Jimbo Fisher,20,30,30,30,30,Pro Style,Conservative
-COACH,TTU,Matt Wells,20,30,30,30,30,Air Raid,Conservative
-COACH,TROY,Neal Brown,20,30,30,30,30,Pro Style,Conservative
-COACH,TULN,Willie Fritz,20,30,30,30,30,Pro Style,Conservative
-COACH,TLSA,Philip Montgomery,20,30,30,30,30,Pro Style,Conservative
-COACH,UCLA,Chip Kelly,20,30,30,30,30,Spread,Conservative
-COACH,USC,Clay Helton,20,30,30,30,30,Pro Style,Conservative
-COACH,UTAH,Kyle Whittingham,20,30,30,30,30,Pro Style,Conservative
-COACH,VAN,Derek Mason,20,30,30,30,30,Pro Style,Conservative
-COACH,UVA,Bronco Mendenhall,20,30,30,30,30,Pro Style,Conservative
-COACH,VT,Justin Fuente,20,30,30,30,30,Pro Style,Conservative
-COACH,WF,Dave Clawson,20,30,30,30,30,Pro Style,Conservative
-COACH,WASH,Chris Petersen,20,30,30,30,30,Balanced,Balanced
-COACH,WSU,Mike Leach,20,30,30,30,30,Air Raid,Conservative
-COACH,WVU,Dana Holgorsen,20,30,30,30,30,Pro Style,Conservative
-COACH,WIS,Paul Chryst,20,30,30,30,30,Smashmouth,Balanced
-COACH,WYO,Craig Bohl,20,30,30,30,30,Pro Style,Conservative
+COACH,ALA,Nick Saban,30,30,30,30,30,Balanced,Balanced
+COACH,ARIZ,Kevin Sumlin,30,30,30,30,30,Pro Style,Conservative
+COACH,ASU,Herm Edwards,30,30,30,30,30,Spread,Conservative
+COACH,ARK,Chad Morris,30,30,30,30,30,Pro Style,Conservative
+COACH,ARMY,Jeff Monken,30,30,30,30,30,Smashmouth,4-6 Bear
+COACH,AUB,Gus Malzahn,30,30,30,30,30,Pro Style,Aggressive
+COACH,BAY,Matt Rhule,30,30,30,30,30,Pro Style,Conservative
+COACH,BSU,Bryan Harsin,30,30,30,30,30,Pro Style,Conservative
+COACH,BC,Steve Addazio,30,30,30,30,30,Pro Style,Aggressive
+COACH,BYU,Kalani Sitake,30,30,30,30,30,Pro Style,Conservative
+COACH,CAL,Justin Wilcox,30,30,30,30,30,Pro Style,Conservative
+COACH,UCF,Josh Heupel,30,30,30,30,30,Spread,Conservative
+COACH,CIN,Luke Fickell,30,30,30,30,30,Pro Style,Conservative
+COACH,CLEM,Dabo Swinney,30,30,30,30,30,Pro Style,Cover 2
+COACH,COLO,Mike MacIntyre,30,30,30,30,30,Pro Style,Conservative
+COACH,CSU,Mike Bobo,30,30,30,30,30,Pro Style,Conservative
+COACH,DUKE,David Cutcliffe,30,30,30,30,30,Pro Style,Conservative
+COACH,ECU,Scottie Montgomery,30,30,30,30,30,Smashmouth,Conservative
+COACH,UF,Dan Mullen,30,30,30,30,30,Pro Style,Balanced
+COACH,FSU,David Knight,30,95,95,95,95,Spread,Balanced
+COACH,UGA,Kirby Smart,30,30,30,30,30,Balanced,Aggressive
+COACH,GT,Paul Johnson,30,30,30,30,30,Smashmouth,Conservative
+COACH,HOU,Major Applewhite,30,30,30,30,30,Spread,Conservative
+COACH,ILL,Lovie Smith,30,30,30,30,30,Pro Style,Conservative
+COACH,IND,Tom Allen,30,30,30,30,30,Spread,Conservative
+COACH,IOWA,Kirk Ferentz,30,30,30,30,30,Balanced,Conservative
+COACH,ISU,Matt Campbell,30,30,30,30,30,Pro Style,Conservative
+COACH,KU,Les Miles,30,30,30,30,30,Pro Style,Conservative
+COACH,KSU,Chris Klieman,30,30,30,30,30,Pro Style,Conservative
+COACH,UK,Mark Stoops,30,30,30,30,30,Smashmouth,Conservative
+COACH,LOU,Bobby Petrino,30,30,30,30,30,Spread,Conservative
+COACH,LSU,Ed Orgeron,30,30,30,30,30,Pro Style,Conservative
+COACH,MD,Mike Locksley,30,30,30,30,30,Balanced,Conservative
+COACH,MEM,Mike Norvell,30,30,30,30,30,Spread,Conservative
+COACH,UM,Manny Diaz,30,30,30,30,30,Balanced,Cover 2
+COACH,MICH,Jim Harbaugh,30,30,30,30,30,Pro Style,Aggressive
+COACH,MSU,Mark Dantonio,30,30,30,30,30,Balanced,Cover 2
+COACH,MINN,PJ Fleck,30,30,30,30,30,Pro Style,Conservative
+COACH,MSST,Joe Moorhead,30,30,30,30,30,Pro Style,Conservative
+COACH,MIZ,Barry Odom,30,30,30,30,30,Spread,Conservative
+COACH,NAVY,Ken Niumatalolo,30,30,30,30,30,Smashmouth,Conservative
+COACH,NEB,Scott Frost,30,30,30,30,30,Pro Style,Conservative
+COACH,UNC,Larry Fedora,30,30,30,30,30,Pro Style,Conservative
+COACH,NCST,Dave Doeren,30,30,30,30,30,Pro Style,Conservative
+COACH,NW,Pat Fitzgerald,30,30,30,30,30,Pro Style,Conservative
+COACH,ND,Brian Kelly,30,30,30,30,30,Balanced,Conservative
+COACH,OSU,Ryan Day,30,30,30,30,30,Spread,Balanced
+COACH,OKL,Lincoln Riley,30,30,30,30,30,Spread,Conservative
+COACH,OKST,Mike Gundy,30,30,30,30,30,Pro Style,Conservative
+COACH,MISS,Matt Luke,30,30,30,30,30,Spread,Conservative
+COACH,ORE,Mario Cristobal,30,30,30,30,30,Pro Style,Conservative
+COACH,ORST,Jonathan Smith,30,30,30,30,30,Pro Style,Conservative
+COACH,PITT,Pat Narduzzi,30,30,30,30,30,Pro Style,Conservative
+COACH,PSU,James Franklin,30,30,30,30,30,Spread,Aggressive
+COACH,PUR,Jeff Brohm,30,30,30,30,30,Pro Style,Conservative
+COACH,RUT,Chris Ash,30,30,30,30,30,Pro Style,Conservative
+COACH,SCAR,Will Muschamp,30,30,30,30,30,Pro Style,Conservative
+COACH,USF,Charlie Strong,30,30,30,30,30,Spread,Conservative
+COACH,STAN,David Shaw,30,30,30,30,30,Balanced,Conservative
+COACH,SYR,Dino Babers,30,30,30,30,30,Pro Style,Conservative
+COACH,TCU,Gary Patterson,30,30,30,30,30,Spread,Aggressive
+COACH,TEM,Geoff Collins,30,30,30,30,30,Pro Style,Conservative
+COACH,TEN,Jeremy Pruitt,30,30,30,30,30,Pro Style,Conservative
+COACH,TEX,Tom Herman,30,30,30,30,30,Pro Style,Conservative
+COACH,TAMU,Jimbo Fisher,30,30,30,30,30,Pro Style,Conservative
+COACH,TTU,Matt Wells,30,30,30,30,30,Air Raid,Conservative
+COACH,TROY,Neal Brown,30,30,30,30,30,Pro Style,Conservative
+COACH,TULN,Willie Fritz,30,30,30,30,30,Pro Style,Conservative
+COACH,TLSA,Philip Montgomery,30,30,30,30,30,Pro Style,Conservative
+COACH,UCLA,Chip Kelly,30,30,30,30,30,Spread,Conservative
+COACH,USC,Clay Helton,30,30,30,30,30,Pro Style,Conservative
+COACH,UTAH,Kyle Whittingham,30,30,30,30,30,Pro Style,Conservative
+COACH,VAN,Derek Mason,30,30,30,30,30,Pro Style,Conservative
+COACH,UVA,Bronco Mendenhall,30,30,30,30,30,Pro Style,Conservative
+COACH,VT,Justin Fuente,30,30,30,30,30,Pro Style,Conservative
+COACH,WF,Dave Clawson,30,30,30,30,30,Pro Style,Conservative
+COACH,WASH,Chris Petersen,30,30,30,30,30,Balanced,Balanced
+COACH,WSU,Mike Leach,30,30,30,30,30,Air Raid,Conservative
+COACH,WVU,Dana Holgorsen,30,30,30,30,30,Pro Style,Conservative
+COACH,WIS,Paul Chryst,30,30,30,30,30,Smashmouth,Balanced
+COACH,WYO,Craig Bohl,30,30,30,30,30,Pro Style,Conservative
 ,,,,,,,,,
 # Players,,,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,
@@ -1494,75 +1494,75 @@ PLAYER,UF,DL,Tedarrell Slaton,So,72,285,1,,
 PLAYER,UF,LB,Vosean Joseph,Jr,71,235,1,,
 PLAYER,UF,LB,James Houston,Fr,71,235,1,,
 PLAYER,UF,OL,Stone Forsythe,So,73,295,1,,
-PLAYER,FSU,QB,James Blackman,Fr,74,215,10,,
-PLAYER,FSU,S,A.J. Westbrook,Fr,70,195,10,,
-PLAYER,FSU,OL,Jauan Williams,Fr,73,295,10,,
-PLAYER,FSU,DL,Brian Burns,Fr,72,285,10,,
-PLAYER,FSU,CB,Levonta Taylor,Fr,69,200,10,,
-PLAYER,FSU,OL,Baveon Johnson,Fr,73,295,10,,
-PLAYER,FSU,S,Zaquandre White,Fr,70,195,10,,
-PLAYER,FSU,OL,Cole Minshew,Fr,73,295,10,,
-PLAYER,FSU,DL,Dennis Briggs,Fr,72,285,10,,
-PLAYER,FSU,DL,Robert Cooper,Fr,72,285,10,,
-PLAYER,FSU,LB,Josh Brown,Fr,71,235,10,,
-PLAYER,FSU,S,Jaiden Woodbey,Fr,70,195,10,,
-PLAYER,FSU,WR,Warren Thompson,Fr,74,205,10,,
-PLAYER,FSU,S,Hamsah Nasirildeen,Fr,70,195,10,,
-PLAYER,FSU,DL,Fredrick Jones,Fr,72,285,10,,
-PLAYER,FSU,DL,Janarius Robinson,Fr,72,285,10,,
-PLAYER,FSU,TE,Naseir Upshur,Fr,72,240,10,,
-PLAYER,FSU,RB,Cam Akers,Fr,68,220,10,,
-PLAYER,FSU,OL,Derrick Kelly,Fr,73,295,10,,
-PLAYER,FSU,DL,Josh Kaindoh,Fr,72,285,10,,
-PLAYER,FSU,WR,Jordan Young,Fr,74,205,10,,
-PLAYER,FSU,OL,Christian Meadows,Fr,73,295,10,,
-PLAYER,FSU,OL,Arthur Williams,Fr,73,295,10,,
-PLAYER,FSU,OL,Brady Scott,Fr,73,295,10,,
-PLAYER,FSU,LB,DeCalon Brooks,Fr,71,235,10,,
-PLAYER,FSU,WR,Nyqwan Murray,Fr,74,205,10,,
-PLAYER,FSU,TE,Tre' McKitty,Fr,72,240,10,,
-PLAYER,FSU,LB,Amari Gainer,Fr,71,235,10,,
-PLAYER,FSU,LB,Dontavious Jackson,Fr,71,235,10,,
-PLAYER,FSU,QB,Alex Hornibrook,Fr,74,215,10,,
-PLAYER,FSU,WR,Deonte Sheffield,Fr,74,205,10,,
-PLAYER,FSU,WR,George Campbell,Fr,74,205,10,,
-PLAYER,FSU,DL,Jamarcus Chatman,Fr,72,285,10,,
-PLAYER,FSU,OL,Abdul Bello,Fr,73,295,10,,
-PLAYER,FSU,OL,Alec Eberle,Fr,73,295,10,,
-PLAYER,FSU,DL,Xavier Peters,Fr,72,285,10,,
-PLAYER,FSU,K,Ricky Aguayo,Fr,67,180,10,,
-PLAYER,FSU,CB,Asante Samuel,Fr,69,200,10,,
-PLAYER,FSU,WR,Keith Gavin,Fr,74,205,10,,
-PLAYER,FSU,K,Logan Tyler,Fr,67,180,10,,
-PLAYER,FSU,WR,D.J. Matthews,Fr,74,205,10,,
-PLAYER,FSU,RB,Khalan Laborn,Fr,68,220,10,,
-PLAYER,FSU,S,Stanford Samuels,Fr,70,195,10,,
-PLAYER,FSU,S,Cyrus Fagan,Fr,70,195,10,,
-PLAYER,FSU,CB,Anthony Lytton,Fr,69,200,10,,
-PLAYER,FSU,CB,Kyle Meyers,Fr,69,200,10,,
-PLAYER,FSU,LB,Adonis Thomas,Fr,71,235,10,,
-PLAYER,FSU,OL,Christian Armstrong,Fr,73,295,10,,
-PLAYER,FSU,DL,Chaz Neal,Fr,72,285,10,,
-PLAYER,FSU,WR,Tamorrion Terry,Fr,74,205,10,,
-PLAYER,FSU,LB,Emmett Rice,Fr,71,235,10,,
-PLAYER,FSU,WR,Tre'Shaun Harrison,Fr,74,205,10,,
-PLAYER,FSU,DL,Ja'len Parks,Fr,72,285,10,,
-PLAYER,FSU,CB,Carlos Becker,Fr,69,200,10,,
-PLAYER,FSU,OL,Mike Arnold,Fr,73,295,10,,
-PLAYER,FSU,LB,Leonard Warner,Fr,71,235,10,,
-PLAYER,FSU,RB,Jacques Patrick,Fr,68,220,10,,
-PLAYER,FSU,CB,Isaiah Bolden,Fr,69,200,10,,
-PLAYER,FSU,DL,Demarcus Christmas,Fr,72,285,10,,
-PLAYER,FSU,OL,Jalen Goss,Fr,73,295,10,,
-PLAYER,FSU,DL,Malcolm Lamar,Fr,72,285,10,,
-PLAYER,FSU,DL,Marvin Wilson,Fr,72,285,10,,
-PLAYER,FSU,TE,Johnathan Vickers,Fr,72,240,10,,
-PLAYER,FSU,WR,Ontaria Wilson,Fr,74,205,10,,
-PLAYER,FSU,RB,Amir Rasul,Fr,68,220,10,,
-PLAYER,FSU,OL,Landon Dickerson,Fr,73,295,10,,
-PLAYER,FSU,DL,Walvenski Aime,Fr,72,285,10,,
-PLAYER,FSU,DL,Cory Durden,Fr,72,285,10,,
-PLAYER,FSU,TE,Camren McDonald,Fr,72,240,10,,
+PLAYER,FSU,QB,James Blackman,Fr,74,215,8,,
+PLAYER,FSU,S,A.J. Westbrook,Fr,70,195,8,,
+PLAYER,FSU,OL,Jauan Williams,Fr,73,295,8,,
+PLAYER,FSU,DL,Brian Burns,Fr,72,285,8,,
+PLAYER,FSU,CB,Levonta Taylor,Fr,69,200,8,,
+PLAYER,FSU,OL,Baveon Johnson,Fr,73,295,8,,
+PLAYER,FSU,S,Zaquandre White,Fr,70,195,8,,
+PLAYER,FSU,OL,Cole Minshew,Fr,73,295,8,,
+PLAYER,FSU,DL,Dennis Briggs,Fr,72,285,8,,
+PLAYER,FSU,DL,Robert Cooper,Fr,72,285,8,,
+PLAYER,FSU,LB,Josh Brown,Fr,71,235,8,,
+PLAYER,FSU,S,Jaiden Woodbey,Fr,70,195,8,,
+PLAYER,FSU,WR,Warren Thompson,Fr,74,205,8,,
+PLAYER,FSU,S,Hamsah Nasirildeen,Fr,70,195,8,,
+PLAYER,FSU,DL,Fredrick Jones,Fr,72,285,8,,
+PLAYER,FSU,DL,Janarius Robinson,Fr,72,285,8,,
+PLAYER,FSU,TE,Naseir Upshur,Fr,72,240,8,,
+PLAYER,FSU,RB,Cam Akers,Fr,68,220,8,,
+PLAYER,FSU,OL,Derrick Kelly,Fr,73,295,8,,
+PLAYER,FSU,DL,Josh Kaindoh,Fr,72,285,8,,
+PLAYER,FSU,WR,Jordan Young,Fr,74,205,8,,
+PLAYER,FSU,OL,Christian Meadows,Fr,73,295,8,,
+PLAYER,FSU,OL,Arthur Williams,Fr,73,295,8,,
+PLAYER,FSU,OL,Brady Scott,Fr,73,295,8,,
+PLAYER,FSU,LB,DeCalon Brooks,Fr,71,235,8,,
+PLAYER,FSU,WR,Nyqwan Murray,Fr,74,205,8,,
+PLAYER,FSU,TE,Tre' McKitty,Fr,72,240,8,,
+PLAYER,FSU,LB,Amari Gainer,Fr,71,235,8,,
+PLAYER,FSU,LB,Dontavious Jackson,Fr,71,235,8,,
+PLAYER,FSU,QB,Alex Hornibrook,Fr,74,215,8,,
+PLAYER,FSU,WR,Deonte Sheffield,Fr,74,205,8,,
+PLAYER,FSU,WR,George Campbell,Fr,74,205,8,,
+PLAYER,FSU,DL,Jamarcus Chatman,Fr,72,285,8,,
+PLAYER,FSU,OL,Abdul Bello,Fr,73,295,8,,
+PLAYER,FSU,OL,Alec Eberle,Fr,73,295,8,,
+PLAYER,FSU,DL,Xavier Peters,Fr,72,285,8,,
+PLAYER,FSU,K,Ricky Aguayo,Fr,67,180,8,,
+PLAYER,FSU,CB,Asante Samuel,Fr,69,200,8,,
+PLAYER,FSU,WR,Keith Gavin,Fr,74,205,8,,
+PLAYER,FSU,K,Logan Tyler,Fr,67,180,8,,
+PLAYER,FSU,WR,D.J. Matthews,Fr,74,205,8,,
+PLAYER,FSU,RB,Khalan Laborn,Fr,68,220,8,,
+PLAYER,FSU,S,Stanford Samuels,Fr,70,195,8,,
+PLAYER,FSU,S,Cyrus Fagan,Fr,70,195,8,,
+PLAYER,FSU,CB,Anthony Lytton,Fr,69,200,8,,
+PLAYER,FSU,CB,Kyle Meyers,Fr,69,200,8,,
+PLAYER,FSU,LB,Adonis Thomas,Fr,71,235,8,,
+PLAYER,FSU,OL,Christian Armstrong,Fr,73,295,8,,
+PLAYER,FSU,DL,Chaz Neal,Fr,72,285,8,,
+PLAYER,FSU,WR,Tamorrion Terry,Fr,74,205,8,,
+PLAYER,FSU,LB,Emmett Rice,Fr,71,235,8,,
+PLAYER,FSU,WR,Tre'Shaun Harrison,Fr,74,205,8,,
+PLAYER,FSU,DL,Ja'len Parks,Fr,72,285,8,,
+PLAYER,FSU,CB,Carlos Becker,Fr,69,200,8,,
+PLAYER,FSU,OL,Mike Arnold,Fr,73,295,8,,
+PLAYER,FSU,LB,Leonard Warner,Fr,71,235,8,,
+PLAYER,FSU,RB,Jacques Patrick,Fr,68,220,8,,
+PLAYER,FSU,CB,Isaiah Bolden,Fr,69,200,8,,
+PLAYER,FSU,DL,Demarcus Christmas,Fr,72,285,8,,
+PLAYER,FSU,OL,Jalen Goss,Fr,73,295,8,,
+PLAYER,FSU,DL,Malcolm Lamar,Fr,72,285,8,,
+PLAYER,FSU,DL,Marvin Wilson,Fr,72,285,8,,
+PLAYER,FSU,TE,Johnathan Vickers,Fr,72,240,8,,
+PLAYER,FSU,WR,Ontaria Wilson,Fr,74,205,8,,
+PLAYER,FSU,RB,Amir Rasul,Fr,68,220,8,,
+PLAYER,FSU,OL,Landon Dickerson,Fr,73,295,8,,
+PLAYER,FSU,DL,Walvenski Aime,Fr,72,285,8,,
+PLAYER,FSU,DL,Cory Durden,Fr,72,285,8,,
+PLAYER,FSU,TE,Camren McDonald,Fr,72,240,8,,
 PLAYER,UGA,OL,Kendall Baker,Sr,73,295,1,,
 PLAYER,UGA,OL,Trey Hill,Fr,73,295,1,,
 PLAYER,UGA,LB,Keyon Richardson,Sr,71,235,1,,
@@ -5773,6 +5773,4 @@ PLAYER,USF,K,Trent Schneider,So,67,180,1,,
 PLAYER,USF,LB,Jeffery Farrar,Sr,71,235,1,,
 PLAYER,USF,OL,Donovan Jennings,Fr,73,295,1,,
 PLAYER,USF,K,Jake Vivonetto,Sr,67,180,1,,
-,,,,,,,,,
-,,,,,,,,,
 END_FILE,,,,,,,,,
